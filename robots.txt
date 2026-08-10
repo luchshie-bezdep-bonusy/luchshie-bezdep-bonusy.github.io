@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: luchshie-bezdep-bonusy.github.io
+Sitemap: https://luchshie-bezdep-bonusy.github.io/sitemap.xml
